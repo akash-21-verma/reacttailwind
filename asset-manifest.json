@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/reacttailwind/static/css/main.addd6499.chunk.css",
-    "main.js": "/reacttailwind/static/js/main.be22bbd2.chunk.js",
-    "main.js.map": "/reacttailwind/static/js/main.be22bbd2.chunk.js.map",
-    "runtime-main.js": "/reacttailwind/static/js/runtime-main.2d7b95ed.js",
-    "runtime-main.js.map": "/reacttailwind/static/js/runtime-main.2d7b95ed.js.map",
-    "static/js/2.53c505aa.chunk.js": "/reacttailwind/static/js/2.53c505aa.chunk.js",
-    "static/js/2.53c505aa.chunk.js.map": "/reacttailwind/static/js/2.53c505aa.chunk.js.map",
-    "static/js/3.c5e89648.chunk.js": "/reacttailwind/static/js/3.c5e89648.chunk.js",
-    "static/js/3.c5e89648.chunk.js.map": "/reacttailwind/static/js/3.c5e89648.chunk.js.map",
+    "main.css": "/reacttailwind/static/css/main.8d89bec2.chunk.css",
+    "main.js": "/reacttailwind/static/js/main.a195233b.chunk.js",
+    "main.js.map": "/reacttailwind/static/js/main.a195233b.chunk.js.map",
+    "runtime-main.js": "/reacttailwind/static/js/runtime-main.b14570eb.js",
+    "runtime-main.js.map": "/reacttailwind/static/js/runtime-main.b14570eb.js.map",
+    "static/js/2.4d64971e.chunk.js": "/reacttailwind/static/js/2.4d64971e.chunk.js",
+    "static/js/2.4d64971e.chunk.js.map": "/reacttailwind/static/js/2.4d64971e.chunk.js.map",
+    "static/js/3.503282a6.chunk.js": "/reacttailwind/static/js/3.503282a6.chunk.js",
+    "static/js/3.503282a6.chunk.js.map": "/reacttailwind/static/js/3.503282a6.chunk.js.map",
     "index.html": "/reacttailwind/index.html",
-    "static/css/main.addd6499.chunk.css.map": "/reacttailwind/static/css/main.addd6499.chunk.css.map",
-    "static/js/2.53c505aa.chunk.js.LICENSE.txt": "/reacttailwind/static/js/2.53c505aa.chunk.js.LICENSE.txt",
+    "static/css/main.8d89bec2.chunk.css.map": "/reacttailwind/static/css/main.8d89bec2.chunk.css.map",
+    "static/js/2.4d64971e.chunk.js.LICENSE.txt": "/reacttailwind/static/js/2.4d64971e.chunk.js.LICENSE.txt",
     "static/media/egg-2.b8045f99.jpg": "/reacttailwind/static/media/egg-2.b8045f99.jpg",
     "static/media/egg.4d911d05.jpg": "/reacttailwind/static/media/egg.4d911d05.jpg",
     "static/media/me.96841109.png": "/reacttailwind/static/media/me.96841109.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.2d7b95ed.js",
-    "static/js/2.53c505aa.chunk.js",
-    "static/css/main.addd6499.chunk.css",
-    "static/js/main.be22bbd2.chunk.js"
+    "static/js/runtime-main.b14570eb.js",
+    "static/js/2.4d64971e.chunk.js",
+    "static/css/main.8d89bec2.chunk.css",
+    "static/js/main.a195233b.chunk.js"
   ]
 }
